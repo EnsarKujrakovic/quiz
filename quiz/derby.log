@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 10 09:16:45 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015d-2b5b-868c-000003ee23a8 
+on database directory /home/ensar/MyDB with class loader sun.misc.Launcher$AppClassLoader@1540e19d 
+Loaded from file:/home/ensar/Downloads/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/home/ensar/eclipse-workspace/test1
+os.name=Linux
+os.arch=amd64
+os.version=4.11.8-200.fc25.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

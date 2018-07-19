@@ -1,0 +1,51 @@
+#div_login {
+	width:50%;
+	height:50%;
+	margin: 20% auto auto auto;
+}
+#div_index{
+	width:50%;
+	height:50%;
+	margin: 20% auto auto auto;
+}
+#ltbox, #lpbox{
+	width:50%;'
+}
+#chooseQuiz {
+	width: 50%;
+	margin: 0 auto;
+}
+#adminAccess {
+	width: 20%;
+	margin: 200px auto auto 15%;
+}
+#adminHomepage{
+	width:90%;
+	margin: 5% auto auto 5%;
+}
+#adminHomepageButtons{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+#adminHomepageButtons div{
+	width: 100%;
+}
+#adminHomepageContent {
+	width: 60%;
+	height: 100%;
+	float:center;
+	display:inline-block;
+}
+#adminHomepageEditors{
+	display: none;
+}
+#adminHomepageQuizes{
+	display: none;
+}
+#adminHomepagePassword{
+	display: none;
+	margin: auto auto auto 40px;
+}
+#oldPass, #newPass, #againPass{
+}
